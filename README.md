@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
-### Name:
-### Register Number:
+![Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER](1.png)
+![Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER](2.png)
+### Name: AKSHAYAA M
+### Register Number: 212222230009
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
